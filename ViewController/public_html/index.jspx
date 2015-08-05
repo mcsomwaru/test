@@ -5,7 +5,7 @@
     <f:view>
         <af:document title="index.jspx" id="d1">
             <af:form id="f1">
-                <af:panelHeader text="panelHeader 1" id="ph1">
+                <af:panelHeader text="Test" id="ph1">
                     <f:facet name="context"/>
                     <f:facet name="menuBar"/>
                     <f:facet name="toolbar">
