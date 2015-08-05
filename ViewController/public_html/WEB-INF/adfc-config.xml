@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="windows-1252" ?>
+<adfc-config xmlns="http://xmlns.oracle.com/adf/controller" version="1.2">
+  <managed-bean id="__1">
+    <managed-bean-name>BaseOnPremExample</managed-bean-name>
+    <managed-bean-class>gy.gov.gra.view.example.BaseOnPremExample</managed-bean-class>
+    <managed-bean-scope>session</managed-bean-scope>
+  </managed-bean>
+  <managed-bean id="__2">
+    <managed-bean-name>GetSitesExample</managed-bean-name>
+    <managed-bean-class>gy.gov.gra.view.example.GetSitesExample</managed-bean-class>
+    <managed-bean-scope>request</managed-bean-scope>
+  </managed-bean>
+</adfc-config>
